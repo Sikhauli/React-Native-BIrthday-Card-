@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "birthday-card",
+    "slug": "birthday-card",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "birthday-card"
+}
